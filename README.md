@@ -8,8 +8,7 @@ Hi, I’m a Computer Science student passionate about software engineering, DevO
 ## Tech Stack
 <div>
   <img src="https://skillicons.dev/icons?i=nodejs,c,cpp,cs,javascript,react,java,python,html,css,react"><br>
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,supabase,mysql,postgresql,github"><br>
-  <img src="https://skillicons.dev/icons?i=vercel,aws,github,git">
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,supabase,mysql,postgresql,github,aws,github,git,mssql,redis"><br>
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,"><br>
 </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=salehairum)
