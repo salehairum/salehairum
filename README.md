@@ -1,14 +1,42 @@
 Hi, I’m a Computer Science student passionate about software engineering, DevOps, and AI systems.
 
-## Skills
-- Languages: C++, Python, JavaScript  
-- Frameworks: React, Node.js, Spring Boot  
-- Tools: Docker, Kubernetes, Git, Terraform
+I enjoy building scalable applications, working with cloud-native tools, and exploring automation through DevOps and intelligent systems.
+
+---
 
 ## Tech Stack
+
+### Programming Languages
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs,c,cpp,cs,javascript,react,java,python,html,css,react"><br>
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,supabase,mysql,postgresql,github,aws,github,git,mssql,redis"><br>
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,"><br>
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,javascript,java" />
 </div>
 
+### Frontend & Backend
+<div>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css" />
+</div>
+
+### Databases
+<div>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase" />
+</div>
+
+### DevOps & Cloud
+<div>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,git,github" />
+</div>
+
+---
+
+## Current Focus
+- DevOps automation and CI/CD pipelines  
+- Full-stack web applications  
+- Cloud infrastructure (AWS, Kubernetes)  
+- AI-assisted systems and tooling  
+
+---
+
+## Interests
+- System design and scalable architectures  
+- Automation and developer tooling  
+- Game development (2D systems & physics experimentation)
