@@ -26,17 +26,3 @@ I enjoy building scalable applications, working with cloud-native tools, and exp
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,git,github" />
 </div>
 
----
-
-## Current Focus
-- DevOps automation and CI/CD pipelines  
-- Full-stack web applications  
-- Cloud infrastructure (AWS, Kubernetes)  
-- AI-assisted systems and tooling  
-
----
-
-## Interests
-- System design and scalable architectures  
-- Automation and developer tooling  
-- Game development (2D systems & physics experimentation)
